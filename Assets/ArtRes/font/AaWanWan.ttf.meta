@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3507affd3ccc1c14d9eb026a6d8cf49a
+timeCreated: 1502186770
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: QisiAaWanWan
+  fontNames:
+  - QisiAaWanWan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
